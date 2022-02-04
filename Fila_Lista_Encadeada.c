@@ -2,8 +2,8 @@
     NOME: PIETRO MINGHINI MORALLES
     RA: 792238
     DISCIPLINA: Algoritmos e Estruturas de Dados 1
-    EXERCICIO: F3 - TAD Fila: implementação, teste e aplicação.
-    DESCRIÇÃO: IMPLEMENTAÇÃO DAS FUNÇÕES TAD FILA
+    EXERCICIO: F4 – Pilha ou Fila com alocação encadeada e dinâmica.
+    DESCRIÇÃO: IMPLEMENTAÇÃO DAS FUNÇÕES TAD FILA COM ALOCAÇÃO ENCADEADA E DINÂMICA
 */
 
 #include "Fila_Lista_Encadeada.h"
